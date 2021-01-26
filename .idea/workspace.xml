@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e495c35e-a21b-43f9-8952-ede59786a359" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1ff5d94-fe3b-4965-ac5c-4676d881a726.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a1ff5d94-fe3b-4965-ac5c-4676d881a726.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/config/MyDataRestConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/dao/ProductRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,39 +21,6 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="97" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="crudapi: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,40 +33,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1T5SShrkYtJQZuPVEfuEFvmLy92" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootEcommerceApplication">
+  <component name="RunManager" selected="Application.SpringBootEcommerceApplication">
     <configuration name="SpringBootEcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.ecommerce.SpringBootEcommerceApplication" />
       <module name="spring-boot-ecommerce" />
@@ -104,8 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootEcommerceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eshop-back-spring" />
+      <module name="spring-boot-ecommerce" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.luv2code.ecommerce.SpringBootEcommerceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,18 +93,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -139,106 +104,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572748464652</updated>
-      <workItem from="1609246939499" duration="1613000" />
-      <workItem from="1609417277105" duration="3788000" />
-      <workItem from="1609496808669" duration="1671000" />
-      <workItem from="1609525944556" duration="2399000" />
+      <workItem from="1611613006361" duration="652000" />
+      <workItem from="1611614842203" duration="1134000" />
+      <workItem from="1611616314224" duration="353000" />
+      <workItem from="1611651021492" duration="2182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="C:/.." />
-      <path value="$USER_HOME$" />
-    </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1609247719957">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1609247719957" />
-    <state x="552" y="178" width="818" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609247518341">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" width="818" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609247518341" />
-    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609417286205">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609417286205" />
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1609543633077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633077" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905857" />
-    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1609543633077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633077" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905856" />
-    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1609543633077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633077" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905856" />
-    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1609543633077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633077" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905856" />
-    <state width="1877" height="277" key="GridCell.Tab.1.bottom" timestamp="1609543633078">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633078" />
-    <state width="1877" height="278" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905858" />
-    <state width="1877" height="277" key="GridCell.Tab.1.center" timestamp="1609543633078">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633078" />
-    <state width="1877" height="278" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905857" />
-    <state width="1877" height="277" key="GridCell.Tab.1.left" timestamp="1609543633078">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633078" />
-    <state width="1877" height="278" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905857" />
-    <state width="1877" height="277" key="GridCell.Tab.1.right" timestamp="1609543633078">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.113.1024.728@0.0.1920.1040" timestamp="1609543633078" />
-    <state width="1877" height="278" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609425905858" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1609498145807">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609498145807" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/luv2code/ecommerce/SpringBootEcommerceApplication.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/spring_boot_ecommerce$SpringBootEcommerceApplication.ic" NAME="SpringBootEcommerceApplication Coverage Results" MODIFIED="1609247915401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/spring_boot_ecommerce$SpringBootEcommerceApplication.ic" NAME="SpringBootEcommerceApplication Coverage Results" MODIFIED="1579720976465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.luv2code.ecommerce.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/eshop_back_spring$SpringBootEcommerceApplication.ic" NAME="SpringBootEcommerceApplication Coverage Results" MODIFIED="1611613340245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.luv2code.ecommerce.*</FILTER>
     </SUITE>
   </component>
